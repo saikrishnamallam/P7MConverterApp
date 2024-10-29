@@ -1,11 +1,3 @@
-# GUI
 tkinter>=8.6
-
-# Core functionality
 urllib3>=2.0.0
-
-# Operating system interface
 pathlib>=1.0.1
-
-# Note: Some packages like 'os', 'subprocess', 'threading', 'queue', and 'logging' 
-# are part of Python's standard library and don't need to be included in requirements.txt
